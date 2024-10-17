@@ -33,3 +33,9 @@ Este projeto explora o perfil financeiro de diversos clientes, permitindo análi
 
 - **Autor**: Jonathan Gustavo
 - **Email**: jonathan.gustavo.lira@gmail.com
+
+ 
+
+
+https://github.com/user-attachments/assets/4128b718-3387-4914-bcac-f78600b38a57
+
