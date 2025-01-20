@@ -7,7 +7,7 @@ st.set_page_config(page_title="Bem-vindo ao Projeto", page_icon=":bar_chart:", l
 
 # Função para exibir a página de boas-vindas
 def pagina_boas_vindas():
-    st.image("https://ebac.art.br/local/templates/brazil/i/brazil_logo_white_port.png", width=200)  # Adicionando a logo
+    st.image("https://keystoneacademic-res.cloudinary.com/image/upload/element/97/97189_thumb.png", width=200)  # Adicionando a logo
 
     st.title("Bem-vindo ao Projeto de Previsão de Renda!")
     
